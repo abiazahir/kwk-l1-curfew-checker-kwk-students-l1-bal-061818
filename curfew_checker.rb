@@ -1,2 +1,2 @@
 def time(int)
-  if 
+  if int%10
