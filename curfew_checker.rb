@@ -1,3 +1,3 @@
 def time(int)
-  if 
+  if time>
     puts 
