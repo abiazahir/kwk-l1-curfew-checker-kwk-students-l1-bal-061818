@@ -8,5 +8,3 @@ def time(int)
     
   end
 end
-
-time(6)
