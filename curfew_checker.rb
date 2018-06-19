@@ -1,2 +1,3 @@
 def time(int)
-  if int%10
+  if int%1
+    puts 
